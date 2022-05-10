@@ -1,7 +1,7 @@
   view: order_items {
     sql_table_name: looker-private-demo.ecomm.order_items ;;
     view_label: "Order Items"
-    ########## IDs, Foreign Keys, Counts ###########
+    ########## IDs, Foreign Keys, Counts ############
 
     dimension: id {
       label: "ID"
