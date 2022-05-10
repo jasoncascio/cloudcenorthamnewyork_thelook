@@ -1,6 +1,6 @@
 #cohort analysis overview
 - dashboard: cohort_analysis_overview
-  title: JC Cohort Analysis Overview
+  title: Cohort Analysis Overview (JC)
   layout: newspaper
   preferred_viewer: dashboards-next
   elements:

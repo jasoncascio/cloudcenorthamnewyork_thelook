@@ -1,5 +1,5 @@
 - dashboard: business_pulse
-  title: JC Business Pulse
+  title: Business Pulse (JC)
   layout: newspaper
   preferred_viewer: dashboards-next
   description: ''

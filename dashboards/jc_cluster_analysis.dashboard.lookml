@@ -1,6 +1,6 @@
 #cluster analysis overview
 - dashboard: cluster_analysis_overview
-  title: JC Cluster Analysis Overview
+  title: Cluster Analysis Overview (JC)
   layout: newspaper
   preferred_viewer: dashboards-next
   elements:

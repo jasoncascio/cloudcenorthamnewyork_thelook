@@ -1,5 +1,5 @@
 - dashboard: customer_lookup
-  title: JC Customer Lookup
+  title: Customer Lookup (JC)
   layout: newspaper
   preferred_viewer: dashboards-next
   embed_style:

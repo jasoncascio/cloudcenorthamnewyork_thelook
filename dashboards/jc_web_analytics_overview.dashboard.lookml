@@ -1,5 +1,5 @@
 - dashboard: web_analytics_overview
-  title: JC Web Analytics Overview
+  title: Web Analytics Overview (JC)
   layout: newspaper
   preferred_viewer: dashboards-next
   query_timezone: user_timezone
