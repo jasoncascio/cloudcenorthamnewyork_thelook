@@ -1,5 +1,5 @@
 connection: "looker-private-demo"
-label: " eCommerce"
+label: " eCommerce (JC)"
 include: "/queries/queries*.view" # includes all queries refinements
 include: "/views/**/*.view" # include all the views
 include: "/dashboards/*.dashboard.lookml" # include all the views
