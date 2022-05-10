@@ -1,5 +1,5 @@
 - dashboard: similar_audience_optimizer
-  title: Similar Audience Optimizer
+  title: JC Similar Audience Optimizer
   layout: newspaper
   preferred_viewer: dashboards-next
   query_timezone: user_timezone

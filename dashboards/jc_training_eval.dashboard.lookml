@@ -1,6 +1,6 @@
 #training evaluation overview
 - dashboard: training_evaluation_overview
-  title: Training Evaluation Overview
+  title: JC Training Evaluation Overview
   layout: newspaper
   preferred_viewer: dashboards-next
   crossfilter_enabled: true

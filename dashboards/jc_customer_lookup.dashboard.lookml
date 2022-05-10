@@ -1,7 +1,7 @@
 - dashboard: customer_lookup
-  title: Customer Lookup
+  title: JC Customer Lookup
   layout: newspaper
-  preferred_viewer: dashboards
+  preferred_viewer: dashboards-next
   embed_style:
     background_color: "#f6f8fa"
     show_title: true

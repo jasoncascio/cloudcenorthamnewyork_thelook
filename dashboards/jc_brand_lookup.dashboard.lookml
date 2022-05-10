@@ -1,5 +1,5 @@
 - dashboard: brand_lookup
-  title: Brand Lookup
+  title: JC Brand Lookup
   layout: newspaper
   preferred_viewer: dashboards-next
   query_timezone: user_timezone

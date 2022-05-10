@@ -1,5 +1,5 @@
 - dashboard: ecommerce_discount_portal
-  title: E-Commerce Discount Portal
+  title: JC E-Commerce Discount Portal
   layout: newspaper
   preferred_viewer: dashboards-next
   elements:

@@ -1,6 +1,7 @@
 - dashboard: shipping_logistics__operations_overview
-  title: Shipping Logistics & Operations Overview
+  title: JC Shipping Logistics & Operations Overview
   layout: newspaper
+  preferred_viewer: dashboards-next
   description: 'Shipping and logistics overview for an ecommerce store - showing things like how many orders are processing, and where things are shipping'
   embed_style:
     background_color: ''
