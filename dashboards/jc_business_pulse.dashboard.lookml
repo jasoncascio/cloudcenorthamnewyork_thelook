@@ -1,7 +1,7 @@
-- dashboard: business_pulse
+- dashboard: business_pulse_jc
   title: Business Pulse JC
   layout: newspaper
-  preferred_viewer: dashboards
+  preferred_viewer: dashboards-next
   description: ''
   query_timezone: user_timezone
   embed_style:
